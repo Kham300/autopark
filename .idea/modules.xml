@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/autopark.iml" filepath="$PROJECT_DIR$/autopark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../autopark-app/autopark-app.iml" filepath="$PROJECT_DIR$/../autopark-app/autopark-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../autopark-controllers/autopark-controllers.iml" filepath="$PROJECT_DIR$/../autopark-controllers/autopark-controllers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../autopark-database/autopark-database.iml" filepath="$PROJECT_DIR$/../autopark-database/autopark-database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../autopark-domain/autopark-domain.iml" filepath="$PROJECT_DIR$/../autopark-domain/autopark-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../autopark-repository/autopark-repository.iml" filepath="$PROJECT_DIR$/../autopark-repository/autopark-repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../autopark-service/autopark-service.iml" filepath="$PROJECT_DIR$/../autopark-service/autopark-service.iml" />
+    </modules>
+  </component>
+</project>

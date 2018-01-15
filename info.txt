@@ -1,0 +1,6 @@
+FACEBOOK
+Max Park
+https://developers.facebook.com/apps/591918377643932/dashboard/
+
+app id= 591918377643932
+secret= a6ddaaa3ca6b9c3f692f02f961cc60f0

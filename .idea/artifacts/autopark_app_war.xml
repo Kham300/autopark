@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="autopark-app:war">
+    <output-path>$PROJECT_DIR$/../autopark-app/target</output-path>
+    <root id="archive" name="autopark-app-1.0.war">
+      <element id="artifact" artifact-name="autopark-app:war exploded" />
+    </root>
+  </artifact>
+</component>
